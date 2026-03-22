@@ -23,7 +23,7 @@
 
 ## 🌱 Currently Learning
 
-* Web technologies (HTML, CSS, JavaScript)
+* Web technologies (CSS, JavaScript)
 * AI & Machine Learning fundamentals
 * Robotics & automation concepts
 
