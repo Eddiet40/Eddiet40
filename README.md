@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Eddiet40! 👋
 
-<!--
-**Eddiet40/Eddiet40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Passionate about building things, breaking things, and learning along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+
+* 🖥️ **Languages I Use Daily:** Python 🐍, C# 💻
+* 🌐 **Diving into:** Web Development
+* 🤖 **Fascinated by:** Robotics & AI
+* 🎮 I enjoy gaming, music, and sports in my free time
+
+---
+
+## 🛠️ Skills & Tools
+
+* **Languages:** Python, C#
+* **Fields:** Web Development, Robotics, Artificial Intelligence
+* **Tools:** Git, VS Code, Visual Studio
+
+---
+
+## 🌱 Currently Learning
+
+* Web technologies (HTML, CSS, JavaScript)
+* AI & Machine Learning fundamentals
+* Robotics & automation concepts
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: **eduardot3105@gmail.com**
+* 🐙 GitHub: Feel free to open issues or discussions on my repositories
+* 👥 Follow me: **[Eddiet40](https://github.com/Eddiet40)**
+
+---
+
+✨ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
