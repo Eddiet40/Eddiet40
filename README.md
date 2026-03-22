@@ -17,7 +17,7 @@
 
 * **Languages:** Python, C#
 * **Fields:** Web Development, Robotics, Artificial Intelligence
-* **Tools:** Git, VS Code, Visual Studio
+* **Tools:** Git, VS Code, Supabase
 
 ---
 
