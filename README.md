@@ -6,7 +6,7 @@
 
 ## 👤 About Me
 
-* 🖥️ **Languages I Use Daily:** Python, C#
+* 🖥️ **Languages I Use Daily:** Python, C#, Node.js
 * 🌐 **Diving into:** Web Development
 * 🤖 **Fascinated by:** Robotics & AI
 * 🎮 I enjoy gaming, music, and sports in my free time
