@@ -1,40 +1,32 @@
-# Hi there, I'm Eddiet40! 👋
-
-> Passionate about building things, breaking things, and learning along the way.
-
----
-
-## 👤 About Me
-
-* 🖥️ **Languages I Use Daily:** Python, C#, Node.js
-* 🌐 **Diving into:** Web Development
-* 🤖 **Fascinated by:** Robotics & AI
-* 🎮 I enjoy gaming, music, and sports in my free time
+# Olá, sou o Eddiet40! 👋
+Apaixonado por construir, desmontar e aprender pelo caminho.
 
 ---
 
-## 🛠️ Skills & Tools
-
-* **Languages:** Python, C#
-* **Fields:** Web Development, Robotics, Artificial Intelligence
-* **Tools:** Git, VS Code, Supabase
-
----
-
-## 🌱 Currently Learning
-
-* Web technologies (CSS, JavaScript)
-* AI & Machine Learning fundamentals
-* Robotics & automation concepts
+## 👤 Sobre Mim
+* 🖥️ **Linguagens que uso diariamente:** Python, C#, Node.js
+* 🌐 **A explorar:** Desenvolvimento Web
+* 🤖 **Fascinado por:** Robótica & Inteligência Artificial
+* 🎓 A preparar-me para entrar no curso de Robótica e Sistemas Inteligentes
+* 🎮 Nos tempos livres: gaming, música e desporto
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Skills & Ferramentas
+* **Linguagens:** Python, C#
+* **Áreas:** Desenvolvimento Web, Robótica, Inteligência Artificial
+* **Ferramentas:** Git, VS Code, Supabase
 
+---
+
+## 🌱 A Aprender Atualmente
+* Fundamentos de Python e Programação Orientada a Objetos
+* Tecnologias Web (CSS, JavaScript)
+* Fundamentos de IA & Machine Learning
+* Conceitos de Robótica & Automação
+
+---
+
+## 📫 Contacto
 * 📧 Email: **eduardot3105@gmail.com**
-* 🐙 GitHub: Feel free to open issues or discussions on my repositories
-* 👥 Follow me: **[Eddiet40](https://github.com/Eddiet40)**
-
----
-
-✨ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+* 🐙 GitHub: [Eddiet40](https://github.com/Eddiet40)
