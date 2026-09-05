@@ -29,6 +29,12 @@ Apaixonado por construir, desmontar e aprender pelo caminho.
 
 ---
 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Eddiet40&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=Eddiet40&theme=radical)
+
+---
+
 ## 📫 Contacto
 * 📧 Email: **eduardot3105@gmail.com**
 * 🐙 GitHub: [Eddiet40](https://github.com/Eddiet40)
